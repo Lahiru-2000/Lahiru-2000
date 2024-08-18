@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lahiru-2000&label=Profile%20views&color=0e75b6&style=flat" alt="lahiru-2000" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lahiru-2000" alt="lahiru-2000" /></a> </p>
-
 - 🌱 I’m currently learning **Angular, PHP**
 
 - 💬 Ask me about **react, Java, tailwind, Bootstrap**
