@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **react, Java, tailwind, Bootstrap**
 
-- 📫 How to reach me **lahirumadurangalm8@gmail.com**
+- 📫 How to reach me **lahirumadhushan80@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
